@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = natalija.stepurko@gmail.com
+	name = Natalija Stepurko
